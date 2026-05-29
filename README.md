@@ -114,13 +114,6 @@ Contributions are welcome! To get started:
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 📬 Contact
